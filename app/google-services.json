@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33085921863",
+    "project_id": "signaling-6dbc8",
+    "storage_bucket": "signaling-6dbc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33085921863:android:3f334ec9ec9752c84f6f62",
+        "android_client_info": {
+          "package_name": "com.example.signaling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33085921863-j02tdfg33dc8n7usqoukpl3jp3mfgcrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHCtGxIhVCL-gremVhK0fRhwaaz5TLFFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33085921863-j02tdfg33dc8n7usqoukpl3jp3mfgcrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
